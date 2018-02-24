@@ -49,6 +49,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro Django [[Download]](/book/Pro%20Django.pdf)
 * Pro IronPython [[Download]](/book/Pro%20IronPython.pdf)
 * Professional Python [[Download]](/book/Professional%20Python.epub)
+* PySide GUI Application Development - Second Edition [[Download]](/book/PySide%20GUI%20Application%20Development%20-%20Second%20Edition.pdf)
 * Python - Journey from Novice to Expert [[Download]](/book/Python%20-%20Journey%20from%20Novice%20to%20Expert.pdf)
 * Python 3 for Absolute Beginners [[Download]](/book/Python%203%20for%20Absolute%20Beginners.pdf)
 * Python 3 Object-oriented Programming - Second Edition [[Download]](/book/Python%203%20Object-oriented%20Programming%20-%20Second%20Edition.pdf)
@@ -69,7 +70,10 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Software Architecture with Python [[Download]](/book/Software%20Architecture%20with%20Python.pdf)
 * The Definitive Guide to Django [[Download]](/book/The%20Definitive%20Guide%20to%20Django.pdf)
 * The Quick Python Book - Second Edition [[Download]](/book/The%20Quick%20Python%20Book%20-%20Second%20Edition.pdf)
+* Tkinter GUI Application Development Blueprints [[Download]](/book/Tkinter%20GUI%20Application%20Development%20Blueprints.pdf)
+* Tkinter GUI Application Development Hotshot [[Download]](/book/Tkinter%20GUI%20Application%20Development%20Hotshot.pdf)
 * Web Development with Django Cookbook [[Download]](/book/Web%20Development%20with%20Django%20Cookbook.pdf)
 * What You Need to Know about Python [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Python.pdf)
+* wxPython 2.8 Application Development Cookbook [[Download]](/book/wxPython%202.8%20Application%20Development%20Cookbook.pdf)
 * 流畅的Python [[Download]](/book/%E6%B5%81%E7%95%85%E7%9A%84Python.epub)
 
