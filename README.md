@@ -47,6 +47,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Matplotlib for Python Developers [[Download]](/book/Matplotlib%20for%20Python%20Developers.pdf)
 * Modern Python Cookbook [[Download]](/book/Modern%20Python%20Cookbook.pdf)
 * Modular Programming with Python [[Download]](/book/Modular%20Programming%20with%20Python.pdf)
+* MySQL for Python [[Download]](/book/MySQL%20for%20Python.pdf)
 * Parallel Programming with Python [[Download]](/book/Parallel%20Programming%20with%20Python.pdf)
 * Practical Django Projects [[Download]](/book/Practical%20Django%20Projects.pdf)
 * Practical Programming - An Introduction to Computer Science Using Python 3 [[Download]](/book/Practical%20Programming%20-%20An%20Introduction%20to%20Computer%20Science%20Using%20Python%203.pdf)
