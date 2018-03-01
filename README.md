@@ -7,6 +7,7 @@ This is my personal collection of free Python books, please feel free to share a
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
 * A Byte of Python [[Download]](/book/A%20Byte%20of%20Python.pdf)
+* Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
 * Automate the Boring Stuff with Python [[Download]](/book/Automate%20the%20Boring%20Stuff%20with%20Python.epub)
 * Beginning Django CMS [[Download]](/book/Beginning%20Django%20CMS.pdf)
 * Beginning Django E-Commerce [[Download]](/book/Beginning%20Django%20E-Commerce.pdf)
