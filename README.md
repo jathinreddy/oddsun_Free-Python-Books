@@ -1,6 +1,10 @@
 # Free Python Books
 
-This is my personal collection of free Python books, please feel free to share and learn.
+This is a curated collection of free Python related eBooks available on the Internet. Please feel free to share and learn.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
 
 ## List of Books
 
@@ -11,9 +15,11 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Automate the Boring Stuff with Python [[Download]](/book/Automate%20the%20Boring%20Stuff%20with%20Python.epub)
 * Beginning Django CMS [[Download]](/book/Beginning%20Django%20CMS.pdf)
 * Beginning Django E-Commerce [[Download]](/book/Beginning%20Django%20E-Commerce.pdf)
+* Beginning Game Development with Python and Pygame [[Download]](/book/Beginning%20Game%20Development%20with%20Python%20and%20Pygame.pdf)
 * Beginning Programming with Python For Dummies - Second Edition [[Download]](/book/Beginning%20Programming%20with%20Python%20For%20Dummies%20-%20Second%20Edition.epub)
 * Beginning Python - From Novice to Professional - Third Edition [[Download]](/book/Beginning%20Python%20-%20From%20Novice%20to%20Professional%20-%20Third%20Edition.pdf)
 * Beginning Python Using Python 2.6 and Python 3.1 [[Download]](/book/Beginning%20Python%20Using%20Python%202.6%20and%20Python%203.1.pdf)
+* Bioinformatics Programming Using Python [[Download]](/book/Bioinformatics%20Programming%20Using%20Python.pdf)
 * Building RESTful Python Web Services [[Download]](/book/Building%20RESTful%20Python%20Web%20Services.pdf)
 * Building Skills in Python [[Download]](/book/Building%20Skills%20in%20Python.pdf)
 * Building Web Applications with Flask [[Download]](/book/Building%20Web%20Applications%20with%20Flask.pdf)
@@ -35,12 +41,14 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Fluent Python [[Download]](/book/Fluent%20Python.pdf)
 * Functional Python Programming [[Download]](/book/Functional%20Python%20Programming.pdf)
 * Fundamentals of Python - First Programs - Second Edition [[Download]](/book/Fundamentals%20of%20Python%20-%20First%20Programs%20-%20Second%20Edition.pdf)
+* Geospatial Development By Example with Python [[Download]](/book/Geospatial%20Development%20By%20Example%20with%20Python.pdf)
 * Head First Learn to Code - A Learner's Guide to Coding and Computational Thinking [[Download]](/book/Head%20First%20Learn%20to%20Code%20-%20A%20Learner%27s%20Guide%20to%20Coding%20and%20Computational%20Thinking.pdf)
 * Instant Flask Web Development [[Download]](/book/Instant%20Flask%20Web%20Development.pdf)
 * IPython Interactive Computing and Visualization Cookbook [[Download]](/book/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
 * Learn More Python 3 the Hard Way - The Next Step for New Python Programmers [[Download]](/book/Learn%20More%20Python%203%20the%20Hard%20Way%20-%20The%20Next%20Step%20for%20New%20Python%20Programmers.pdf)
 * Learn Python In A DAY - The Ultimate Crash Course to Learning the Basics of Python In No Time [[Download]](/book/Learn%20Python%20In%20A%20DAY%20-%20The%20Ultimate%20Crash%20Course%20to%20Learning%20the%20Basics%20of%20Python%20In%20No%20Time.epub)
 * Learning Cython Programming [[Download]](/book/Learning%20Cython%20Programming.pdf)
+* Learning OpenCV 3 Computer Vision with Python - Second Edition [[Download]](/book/Learning%20OpenCV%203%20Computer%20Vision%20with%20Python%20-%20Second%20Edition.pdf)
 * Learning Python - Fabrizio Romano [[Download]](/book/Learning%20Python%20-%20Fabrizio%20Romano.pdf)
 * Learning Python - Fourth Edition [[Download]](/book/Learning%20Python%20-%20Fourth%20Edition.pdf)
 * Learning Python Application Development [[Download]](/book/Learning%20Python%20Application%20Development.pdf)
@@ -58,6 +66,9 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Modern Python Cookbook [[Download]](/book/Modern%20Python%20Cookbook.pdf)
 * Modular Programming with Python [[Download]](/book/Modular%20Programming%20with%20Python.pdf)
 * MySQL for Python [[Download]](/book/MySQL%20for%20Python.pdf)
+* OpenCV Computer Vision with Python [[Download]](/book/OpenCV%20Computer%20Vision%20with%20Python.pdf)
+* OpenCV with Python Blueprints [[Download]](/book/OpenCV%20with%20Python%20Blueprints.pdf)
+* OpenCV with Python By Example [[Download]](/book/OpenCV%20with%20Python%20By%20Example.pdf)
 * Parallel Programming with Python [[Download]](/book/Parallel%20Programming%20with%20Python.pdf)
 * Powerful Python - Second Edition [[Download]](/book/Powerful%20Python%20-%20Second%20Edition.epub)
 * Practical Django Projects [[Download]](/book/Practical%20Django%20Projects.pdf)
@@ -83,6 +94,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Python for Secret Agents [[Download]](/book/Python%20for%20Secret%20Agents.pdf)
 * Python for Software Design - How to Think Like a Computer Scientist [[Download]](/book/Python%20for%20Software%20Design%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
 * Python for the Busy Java Developer [[Download]](/book/Python%20for%20the%20Busy%20Java%20Developer.pdf)
+* Python Geospatial Development - Third Edition [[Download]](/book/Python%20Geospatial%20Development%20-%20Third%20Edition.pdf)
 * Python GUI Programming Cookbook [[Download]](/book/Python%20GUI%20Programming%20Cookbook.pdf)
 * Python High Performance Programming [[Download]](/book/Python%20High%20Performance%20Programming.pdf)
 * Python in Practice [[Download]](/book/Python%20in%20Practice.pdf)
