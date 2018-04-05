@@ -28,6 +28,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Cracking Codes with Python - An Introduction to Building and Breaking Ciphers [[Download]](/book/Cracking%20Codes%20with%20Python%20-%20An%20Introduction%20to%20Building%20and%20Breaking%20Ciphers.epub)
 * Daniel Arbuckle's Mastering Python [[Download]](/book/Daniel%20Arbuckle%27s%20Mastering%20Python.epub)
 * Distributed Computing with Python [[Download]](/book/Distributed%20Computing%20with%20Python.pdf)
+* Dive Into Python [[Download]](/book/Dive%20Into%20Python.pdf)
 * Django - Web Development with Python [[Download]](/book/Django%20-%20Web%20Development%20with%20Python.pdf)
 * Django 1.1 Testing and Debugging [[Download]](/book/Django%201.1%20Testing%20and%20Debugging.pdf)
 * Django Design Patterns and Best Practices [[Download]](/book/Django%20Design%20Patterns%20and%20Best%20Practices.pdf)
