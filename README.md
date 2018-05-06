@@ -124,6 +124,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Think Python - How to Think Like a Computer Scientist - Second Edition [[Download]](/book/Think%20Python%20-%20How%20to%20Think%20Like%20a%20Computer%20Scientist%20-%20Second%20Edition.pdf)
 * Tkinter GUI Application Development Blueprints [[Download]](/book/Tkinter%20GUI%20Application%20Development%20Blueprints.pdf)
 * Tkinter GUI Application Development Hotshot [[Download]](/book/Tkinter%20GUI%20Application%20Development%20Hotshot.pdf)
+* Web Development with Django Cookbook - Second Edition [[Download]](/book/Web%20Development%20with%20Django%20Cookbook%20-%20Second%20Edition.pdf)
 * Web Development with Django Cookbook [[Download]](/book/Web%20Development%20with%20Django%20Cookbook.pdf)
 * What You Need to Know about Python [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Python.pdf)
 * wxPython 2.8 Application Development Cookbook [[Download]](/book/wxPython%202.8%20Application%20Development%20Cookbook.pdf)
