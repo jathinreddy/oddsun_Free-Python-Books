@@ -83,6 +83,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Programming in Python 3 - A Complete Introduction to the Python Language - Second Edition [[Download]](/book/Programming%20in%20Python%203%20-%20A%20Complete%20Introduction%20to%20the%20Python%20Language%20-%20Second%20Edition.pdf)
 * PySide GUI Application Development - Second Edition [[Download]](/book/PySide%20GUI%20Application%20Development%20-%20Second%20Edition.pdf)
 * Python - Journey from Novice to Expert [[Download]](/book/Python%20-%20Journey%20from%20Novice%20to%20Expert.pdf)
+* Python - Master the Art of Design Patterns [[Download]](/book/Python%20-%20Master%20the%20Art%20of%20Design%20Patterns.pdf)
 * Python - Penetration Testing for Developers [[Download]](/book/Python%20-%20Penetration%20Testing%20for%20Developers.pdf)
 * Python 2 and 3 Compatibility - With Six and Python-Future Libraries [[Download]](/book/Python%202%20and%203%20Compatibility%20-%20With%20Six%20and%20Python-Future%20Libraries.pdf)
 * Python 3 for Absolute Beginners [[Download]](/book/Python%203%20for%20Absolute%20Beginners.pdf)
